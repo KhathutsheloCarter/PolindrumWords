@@ -1,0 +1,7 @@
+C:\Users\Lenovo-User\source\repos\palindum number\bin\Debug\palindum number.exe.config
+C:\Users\Lenovo-User\source\repos\palindum number\bin\Debug\palindum number.exe
+C:\Users\Lenovo-User\source\repos\palindum number\bin\Debug\palindum number.pdb
+C:\Users\Lenovo-User\source\repos\palindum number\obj\Debug\palindum number.csproj.AssemblyReference.cache
+C:\Users\Lenovo-User\source\repos\palindum number\obj\Debug\palindum number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-User\source\repos\palindum number\obj\Debug\palindum number.exe
+C:\Users\Lenovo-User\source\repos\palindum number\obj\Debug\palindum number.pdb
